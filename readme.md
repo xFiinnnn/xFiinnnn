@@ -1,6 +1,8 @@
 # 💫 About Me:
 👯 I’m currently working on Prime-Scripts<br>⚙ I’m currently learning C# and JavaScript
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/790183003711733760)](https://discord.com/users/790183003711733760)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/prime-scripts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/finnx_kxx) 
